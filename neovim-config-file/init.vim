@@ -23,7 +23,6 @@ Plug 'https://github.com/ryanoasis/vim-devicons' " Developer Icons
 Plug 'https://github.com/tc50cal/vim-terminal' " Vim Terminal
 Plug 'https://github.com/terryma/vim-multiple-cursors' " CTRL + N for multiple cursors
 Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
-Plug 'https://github.com/github/copilot.vim' " Githup Copilot
 Plug 'https://github.com/jiangmiao/auto-pairs' " Auto Pairs
 Plug 'https://github.com/gruvbox-community/gruvbox' " Gruvbox
 Plug 'https://github.com/vim-airline/vim-airline-themes' " Airline Themes
