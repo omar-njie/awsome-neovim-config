@@ -3,10 +3,18 @@
 To use this configuration first download neovim and install it on your computer, then install vim-plug, for plugins.
 
 Clone this repository or download the file form GitHub.
-`https://github.com/omar-njie/awsome-neovim-configuration.git`
+```
+git clone https://github.com/omar-njie/awsome-neovim-configuration.git
+```
 
-**Neovim Download**: `https://neovim.io/`
-**Vim-plug Install**: `https://github.com/junegunn/vim-plug`
+**Neovim Download**: 
+```
+https://neovim.io/
+```
+**Vim-plug Install**: 
+```
+https://github.com/junegunn/vim-plug
+```
 
 After installing neovim and vim-plug, open neovim by running the command `nvim` from your terminal once neovim is open run `:PlugInstall` to install all the plugins.
 
